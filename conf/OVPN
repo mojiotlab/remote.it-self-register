@@ -1,0 +1,3 @@
+#!/bin/bash
+PROTOCOL=vpn
+PORT=1194

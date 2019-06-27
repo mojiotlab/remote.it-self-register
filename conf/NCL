@@ -1,0 +1,3 @@
+#!/bin/bash
+PROTOCOL=ncl
+PORT=443

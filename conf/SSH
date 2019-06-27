@@ -1,0 +1,3 @@
+#!/bin/bash
+PROTOCOL=ssh
+PORT=22

@@ -1,0 +1,3 @@
+#!/bin/bash
+PROTOCOL=rmt3
+PORT=65535
